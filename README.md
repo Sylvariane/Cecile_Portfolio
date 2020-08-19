@@ -1,4 +1,4 @@
-# Cecile_Portfolio
+# Portfolio de Cécile
 
 ## Projets réalisés dans le cadre de la formation Data Analyst (OpenClassRooms)
 
