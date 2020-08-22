@@ -42,7 +42,7 @@ Projet personnel réalisé grâce à un jeu de données trouvé sur le site : ht
 
 Pour plus de compréhension, les explications des différentes étapes sont écrites dans le notebook. 
 
-[Projet 3 : Prédictions des crises cardiaques]('https://github.com/Sylvariane/Prediction_crise_cardiaque')
+[Projet 3 : Prédictions des crises cardiaques](https://github.com/Sylvariane/Prediction_crise_cardiaque)
 En cours
 
 Ce projet est un projet personnel. Il allie analyse de données avec une partie de nettoyage, une analyse descriptive et une partie modélisation avec le test de trois modèles de classification sur le jeu de données.
