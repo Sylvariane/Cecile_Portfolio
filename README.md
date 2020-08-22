@@ -26,7 +26,7 @@ Le but de ce projet était de mettre en lumière plusieurs compétences :
 Les compétences acquises lors de ce projet sont :
 
 - La construction et la lecture d'un dendrogramme
-- Le test de l'adéquation à une loi par l'intermédiaire de tests statistiques (Kolmogorov-Smirnoff, Shapiro-Wilk, etc.)
+- Le test de l'adéquation à une loi par l'intermédiaire de tests statistiques (Kolmogorov-Smirnov, Shapiro-Wilk, etc.)
 - L'interprétation d'une analyse en composante principale.
 
 ## Projets personnels
@@ -38,7 +38,9 @@ Le notebook contient le script de nettoyage crée pour ce jeu de données avec l
 
 [Projet 2 : Objets perdus/Objets trouvés](https://github.com/Sylvariane/objets_trouves_sncf)
 
-Projet personnel réalisé grâce à un jeu de données trouvé sur le site : [ressource.data.sncf](https://ressources.data.sncf.com/explore/?sort=modified). Le but est d'utiliser les compétences de nettoyage de données et de data wrangling. La partie sur la Data Visualisation a été réalisé sous Tableau. Le Dashboard est disponible sur [Tableau Public] (https://public.tableau.com/profile/c.cile.guillot#!/vizhome/objets_perdus/Tableaudebord1?publish=yes).
+Projet personnel réalisé grâce à un jeu de données trouvé sur le site : [ressource.data.sncf](https://ressources.data.sncf.com/explore/?sort=modified). 
+Le but est d'utiliser les compétences de nettoyage de données et de data wrangling. La partie sur la Data Visualisation a été réalisé sous Tableau. 
+Le Dashboard est disponible sur [Tableau Public](https://public.tableau.com/profile/c.cile.guillot#!/vizhome/objets_perdus/Tableaudebord1?publish=yes).
 
 Pour plus de compréhension, les explications des différentes étapes sont écrites dans le notebook. 
 
