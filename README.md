@@ -56,5 +56,5 @@ Pour plus de compréhension, les explications des différentes étapes sont écr
 
 [Projet 3 : Prédictions des crises cardiaques](https://github.com/Sylvariane/Prediction_crise_cardiaque)
 
-Ce projet est un projet personnel. Il allie analyse de données avec une partie de nettoyage, une analyse descriptive et une partie modélisation avec le test de trois modèles de classification sur le jeu de données. Ce projet a mis en avant que la méthode de modélisation le plus apte à prédire les décès est le modèle de la forêt aléatoire (Random Forest). Les variables 'fraction d'éjection' et 'taux de créatinine' sont les deux variables les plus prédictives dans nos différents modèles. 
+Ce projet est un projet personnel. Il allie analyse de données avec une partie de nettoyage, une analyse descriptive et une partie modélisation avec le test de trois modèles de classification sur le jeu de données. Ce projet a mis en avant que la **méthode de modélisation le plus apte à prédire les décès est le modèle de la forêt aléatoire (Random Forest)**. Les variables *'fraction d'éjection'* et *'taux de créatinine'* sont les *deux variables les plus prédictives* dans nos différents modèles. 
 
