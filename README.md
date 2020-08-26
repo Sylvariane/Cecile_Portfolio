@@ -21,13 +21,23 @@ Le but de ce projet était de mettre en lumière plusieurs compétences :
 
 
 [Projet 3 : Production d'une étude de marché](https://github.com/Sylvariane/production_etude_de_marche)
-(en cours)
+(finalisation et attente d'évaluation)
 
 Les compétences acquises lors de ce projet sont :
 
 - La construction et la lecture d'un dendrogramme
 - Le test de l'adéquation à une loi par l'intermédiaire de tests statistiques (Kolmogorov-Smirnov, Shapiro-Wilk, etc.)
-- L'interprétation d'une analyse en composante principale.
+- L'interprétation d'une analyse en composantes principales.
+
+[Projet 4 : Détection de faux billets](https://github.com/Sylvariane/detection_faux_billets)
+(en cours)
+
+Les compétences acquises lors de ce projet sont : 
+- La construction d'une Analyse en Composantes Principales (ACP)
+- La modélisation à l'aide d'une régression logistique
+- L'interprétation d'une Analyse en Composantes Principales (ACP)
+- L'utilisation d'un algorithme de clustering de type KMeans
+
 
 ## Projets personnels
 
@@ -45,7 +55,6 @@ Le Dashboard est disponible sur [Tableau Public](https://public.tableau.com/prof
 Pour plus de compréhension, les explications des différentes étapes sont écrites dans le notebook. 
 
 [Projet 3 : Prédictions des crises cardiaques](https://github.com/Sylvariane/Prediction_crise_cardiaque)
-(en cours)
 
-Ce projet est un projet personnel. Il allie analyse de données avec une partie de nettoyage, une analyse descriptive et une partie modélisation avec le test de trois modèles de classification sur le jeu de données.
+Ce projet est un projet personnel. Il allie analyse de données avec une partie de nettoyage, une analyse descriptive et une partie modélisation avec le test de trois modèles de classification sur le jeu de données. Ce projet a mis en avant que la méthode de modélisation le plus apte à prédire les décès est le modèle de la forêt aléatoire (Random Forest). Les variables 'fraction d'éjection' et 'taux de créatinine' sont les deux variables les plus prédictives dans nos différents modèles. 
 
